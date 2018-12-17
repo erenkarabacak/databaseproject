@@ -1,1 +1,1 @@
-# My project's README
+# Week by week Database Project
